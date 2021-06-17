@@ -1,6 +1,6 @@
 {
   "name": "web-log-man",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"web-logger web-log-man 前端日志模块\"",
   "main": "index.js",
   "repository": "https://github.com/liuc601/web-logger.git",
