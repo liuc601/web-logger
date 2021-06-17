@@ -35,8 +35,6 @@ export default class BaseLog {
         this.print = window.console;
     }
 
-    static print = window.console;
-    print = window.console;
     /**
        * 通过level字符串获取log打印函数.
        *
