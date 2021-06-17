@@ -1,0 +1,15 @@
+{
+  "name": "web-logger",
+  "version": "1.0.0",
+  "description": "\"web-logger 前端日志模块\"",
+  "main": "index.js",
+  "repository": "https://github.com/liuc601/web-logger.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "“web-logger”"
+  ],
+  "author": "liuc601",
+  "license": "ISC"
+}
